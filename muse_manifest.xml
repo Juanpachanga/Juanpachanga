@@ -1,0 +1,104 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tunotasalsera.com" resolutions="1x" timestamp="1559678971736">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3955049097" ref="index"/>
+    <file name="djs.css" crc="103153158" ref="djs"/>
+    <file name="eventos.css" crc="233492054" ref="eventos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="eventos:djs:index"/>
+    <file name="museutils.js" crc="3803043152" ref="eventos:djs:index"/>
+    <file name="whatinput.js" crc="86476730" ref="eventos:djs:index"/>
+    <file name="museconfig.js" crc="380897831" ref="eventos:djs:index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="eventos:djs:index"/>
+    <file name="webpro.js" crc="242022427" ref="eventos:djs"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="eventos:djs"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="eventos:djs"/>
+    <file name="touchswipe.js" crc="4066113679" ref="eventos:djs"/>
+    <file name="jquery.watch.js" crc="99325471" ref="eventos:djs:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="eventos:djs:index"/>
+    <file name="require.js" crc="4157109226" ref="eventos:djs:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u817-4.png" crc="3781156746" ref="eventos"/>
+    <file name="1-crop-u1204.jpg" crc="3864885824" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="eventos:djs"/>
+    <file name="2-crop-u1259.jpg" crc="249561391" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="3-crop-u1268.jpg" crc="92875743" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="4-crop-u1277.jpg" crc="200685908" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="ajugas-ortofon-scratch-twin-pack-technics-tornamesas-17062-mpe20132249849_072014-f.jpg" crc="26508983" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_191536494-crop-u1332.jpg" crc="3906113312" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_195331295-crop-u1341.jpg" crc="328368732" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_202155029-crop-u1350.jpg" crc="501143986" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="sam_5712.jpg" crc="493929632" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_191536494-crop-u1368.jpg" crc="3906113312" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_195331295-crop-u1396.jpg" crc="328368732" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_20160416_202155029-crop-u1405.jpg" crc="501143986" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="sam_5713-crop-u1423.jpg" crc="3894472509" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="eventos:djs"/>
+    <file name="pizapcom14348293150391.jpg" crc="3982157313" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14348305250561.jpg" crc="7739503" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349265367021.jpg" crc="450464509" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349266839613.jpg" crc="4233483534" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="mostri.jpg" crc="4123632331" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349268981564.jpg" crc="76570570" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349276073055.jpg" crc="237122209" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14400799250731.jpg" crc="243853318" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349278125896.jpg" crc="443160066" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="pizapcom14349285117829.jpg" crc="4223792119" seo="true" ref="djs">
+      <caption webpage="djs" alt=""/>
+    </file>
+    <file name="u813-4.png" crc="3894851918" ref="djs"/>
+    <file name="tunota completo.jpg" crc="40644436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="eventos.html" crc="4148137819" seo="true" mt="1559678970542" redirect="true"/>
+  <file name="djs.html" crc="4201557064" seo="true" mt="1559678971270" redirect="true"/>
+  <file name="index.html" crc="289207714" seo="true" mt="1520896271878" redirect="true"/>
+</manifest>
